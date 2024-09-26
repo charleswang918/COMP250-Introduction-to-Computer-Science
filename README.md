@@ -1,6 +1,6 @@
 # Introduction-to-Computer-Science
 ## Contents
-The contents of this repository consists of 4 assignments are given by Prof. Langer for COMP 250 Introduction to Computer Science course during Fall 2021 at McGill University.
+The contents of this repository consists of 4 assignments are given by [Prof. Michael Langer](https://www.cim.mcgill.ca/~langer/index.html) for COMP 250 Introduction to Computer Science course during Fall 2021 at McGill University.
 ## Assignment 1-Implement a Memory class that defines a memory array and a linked list of objects
 In this assignment we will work with the arrays and the Java LinkedList class, and also practice our basic Java programming skills. The scenario for this assignment is that we have a set of “strings” stored in a memory. The memory consists of an array of characters, and so each string will be stored in an interval of positions in that array. The goal is to put strings into the memory array, get strings from the memory array, or remove strings from the memory array. In doing so, we need to keep track of which strings are stored in memory (each string will have an id) and where the strings are. We will use a linked list for this bookkeeping task.
 ## Assignment 2-Implement a food places model based on a UML diagram
